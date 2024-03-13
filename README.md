@@ -4,7 +4,7 @@
 
 Olá! Este repositório faz parte do projeto da disciplina de Interação Homem Computador da UTFPR - Campus Cornélio Procópio. 
 
-## 1. Introdução
+## 1. Introdução (Até dia 04/04)
 
 ***1.1.  Nome do Grupo***
 
@@ -26,7 +26,7 @@ Realize uma pesquisa sobre os seus potenciais usuários considerando as alternat
 
 **Opção 2:** Crie um roteiro de entrevista semiestruturada e aplique-a com um ou mais especialistas no domínio de sua solução. Lembre-se que as questões devem ajudar a entender, além do domínio, as necessidades do seu público-alvo. Anexe o roteiro e a transcrição das respostas coletas.
 
-## 2. Perfil do usuário
+## 2. Perfil do usuário (Até dia 18/04)
 
 ***2.1. Descrição dos Usuários: Personas***
 
@@ -42,7 +42,7 @@ Apresente uma análise de como você prevê as tarefas sendo realizadas pelo usu
 
 **Sugestão:** os storyboards podem ser feitos na versão gratuita da ferramenta StoryboardThat ([https://www.storyboardthat.com/](https://www.storyboardthat.com/storyboard-creator) ).
 
-## 3. Design
+## 3. Design (Até dia 16/05)
 
 ***3.1. Requisitos Funcionais***
 
@@ -56,11 +56,11 @@ Apresente uma descrição textual resumida do seu design.  Quais as funcionalida
 
 Apresente uma ilustrações do design: incluir os desenhos (sketches) das telas relativas à interface do seu sistema. 
 
-## 4. Protótipo
+## 4. Protótipo (Até dia 23/05)
 
 Apresentar o protótipo "em uso". Seu protótipo deve ser construído utilizando o Figma. 
 
-## 5. Avaliação e Re-Design
+## 5. Avaliação e Re-Design (Até dia 13/06)
 
 ***5.1. Avaliação com usuários*** 
 
