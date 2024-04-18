@@ -8,7 +8,7 @@ Olá! Este repositório faz parte do projeto da disciplina de Interação Homem 
 
 ***1.1.  Nome do Grupo***
 
-MI6 Group.ltda
+MI6 Group.Ltda
 
 ***1.2.  Problema***
 
