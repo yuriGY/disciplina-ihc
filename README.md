@@ -8,33 +8,28 @@ Olá! Este repositório faz parte do projeto da disciplina de Interação Homem 
 
 ***1.1.  Nome do Grupo***
 
-MI6 Group.Ltda
+- MI6 Group.Ltda
 
 ***1.2.  Problema***
 
 Descreva a situação atual e o problema que sua solução computacional visa resolver.
 
-- Descrição do problema: Queremos melhorar a interação professor/aluno, com um app mobile que traz funcionalidades e para o professor.
-  Por exemplo: Registro de diário de frequência, capacitações, disponibilidade de conteúdos para os alunos entre outras...
+- Descrição do problema: Queremos melhorar a interação professor, com um app mobile que traz funcionalidades para o professor.
+  Por exemplo: Registro de diário de frequência, capacitações, entre outras...
 
 ***1.3.  Análise dos sistemas concorrentes***
 
 Analise  duas (2) soluções concorrentes e as descreva no contexto do seu problema. Você pode considerar alternativas não computacionais como concorrentes.
 
 ***1.2.  Público Alvo***
-
-Realize uma pesquisa sobre os seus potenciais usuários considerando as alternativas abaixo:
-
-**Opção 1:** Crie um questionário e aplique-o  com potenciais usuários reais  (pelo menos 10 pessoas). Anexe o seu questionário e as respostas obtidas (prints do Google Forms).  Apresente uma análise  resumida das respostas do questionário.  Observação: respostas ao questionário devem ser anônimas.
-
-**Opção 2:** Crie um roteiro de entrevista semiestruturada e aplique-a com um ou mais especialistas no domínio de sua solução. Lembre-se que as questões devem ajudar a entender, além do domínio, as necessidades do seu público-alvo. Anexe o roteiro e a transcrição das respostas coletas.
+- Professores do ensino fundamental e médio do ensino público, que possuem pouca familiaridade com informática.
 
 ## 2. Perfil do usuário (Até dia 18/04)
 
 ***2.1. Descrição dos Usuários: Personas***
 
 Descreva os usuários da sua solução a partir das conclusões da análise das respostas do questionário aplicado com usuários.
-- Mãe do boca
+- Criar persona baseado na Mãe do Boca
 
 ***2.2. Análise de Tarefas: ANTES***
 
