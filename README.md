@@ -8,11 +8,14 @@ Olá! Este repositório faz parte do projeto da disciplina de Interação Homem 
 
 ***1.1.  Nome do Grupo***
 
-Indicar o nome e github dos integrantes do grupo
+MI6 Group.ltda
 
 ***1.2.  Problema***
 
 Descreva a situação atual e o problema que sua solução computacional visa resolver.
+
+- Descrição do problema: Queremos melhorar a interação professor/aluno, com um app mobile que traz funcionalidades e para o professor.
+  Por exemplo: Registro de diário de frequência, capacitações, disponibilidade de conteúdos para os alunos entre outras...
 
 ***1.3.  Análise dos sistemas concorrentes***
 
@@ -31,6 +34,7 @@ Realize uma pesquisa sobre os seus potenciais usuários considerando as alternat
 ***2.1. Descrição dos Usuários: Personas***
 
 Descreva os usuários da sua solução a partir das conclusões da análise das respostas do questionário aplicado com usuários.
+- Mãe do boca
 
 ***2.2. Análise de Tarefas: ANTES***
 
