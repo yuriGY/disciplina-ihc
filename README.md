@@ -30,8 +30,7 @@ Analise  duas (2) soluções concorrentes e as descreva no contexto do seu probl
 ***2.1. Descrição dos Usuários: Personas***
 
 ### Professora Clara
-
-### Professora Carlos
+### Professor Carlos
 
 ***2.2. Análise de Tarefas: ANTES***
 
