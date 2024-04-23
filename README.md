@@ -37,7 +37,7 @@ Analise  duas (2) soluções concorrentes e as descreva no contexto do seu probl
 Apresente uma análise  de como as tarefas são atualmente realizadas pelo usuário, ou seja, sem o sistema que você pretende desenvolver. A coleta de dados para essa análise deve ser baseada na parte 1 do projeto. Apresente o resultado na forma de um cenário textual ou pictográfico (*storyboard*).
 
 ***2.3. Análise de Tarefas: DEPOIS***
-![image](https://github.com/yuriGY/disciplina-ihc/assets/113930924/81be9de7-e376-4cf9-88b0-1c0427ed4388)
+![image](https://github.com/yuriGY/disciplina-ihc/assets/113930924/f2409716-b558-459a-97a1-21f7e87ae1d5)
 
 
 ## 3. Design (Até dia 16/05)
