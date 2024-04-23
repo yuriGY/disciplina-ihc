@@ -29,7 +29,7 @@ Analise  duas (2) soluções concorrentes e as descreva no contexto do seu probl
 
 ***2.1. Descrição dos Usuários: Personas***
 
-### [Professora Clara](./Personas/Professor%20Clara.md)
+### [Professora Clara](./Personas/Professora%20Clara.md)
 ### [Professor Carlos](./Personas/Professor%20Carlos.md)
 
 ***2.2. Análise de Tarefas: ANTES***
