@@ -19,6 +19,7 @@ Olá! Este repositório faz parte do projeto da disciplina de Interação Homem 
 ***1.3.  Análise dos sistemas concorrentes***
 
 -Documentos Físicos: Muitos professores ainda realizam tarefas de forma manual, como por exemplo, a chamada por meio de papel. Tal fato pode se tornar um problema pelo acúmulo de papelada, gasto desnecessário de material ou financeiro ou uma complicação na organização de documentos. 
+
 -Office 365: A biblioteca da Microsoft é um dos principais softwares utilizados entre os professores para a realização de simples tarefas, desde criação de documentos, anotação de faltas ou realização de arquivos para a aula.
 
 ***1.4.  Público Alvo***
