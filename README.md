@@ -13,16 +13,15 @@ Olá! Este repositório faz parte do projeto da disciplina de Interação Homem 
 
 ***1.2.  Problema***
 
-Descreva a situação atual e o problema que sua solução computacional visa resolver.
-
 - Descrição do problema: Queremos melhorar a interação professor, com um app mobile que traz funcionalidades para o professor.
   Por exemplo: Registro de diário de frequência, capacitações, entre outras...
 
 ***1.3.  Análise dos sistemas concorrentes***
 
-Analise  duas (2) soluções concorrentes e as descreva no contexto do seu problema. Você pode considerar alternativas não computacionais como concorrentes.
+-Documentos Físicos: Muitos professores ainda realizam tarefas de forma manual, como por exemplo, a chamada por meio de papel. Tal fato pode se tornar um problema pelo acúmulo de papelada, gasto desnecessário de material ou financeiro ou uma complicação na organização de documentos. 
+-Office 365: A biblioteca da Microsoft é um dos principais softwares utilizados entre os professores para a realização de simples tarefas, desde criação de documentos, anotação de faltas ou realização de arquivos para a aula.
 
-***1.2.  Público Alvo***
+***1.4.  Público Alvo***
 - Professores do ensino fundamental e médio do ensino público, que possuem pouca familiaridade com informática.
 
 ## 2. Perfil do usuário
@@ -34,7 +33,7 @@ Analise  duas (2) soluções concorrentes e as descreva no contexto do seu probl
 
 ***2.2. Análise de Tarefas: ANTES***
 
-Apresente uma análise  de como as tarefas são atualmente realizadas pelo usuário, ou seja, sem o sistema que você pretende desenvolver. A coleta de dados para essa análise deve ser baseada na parte 1 do projeto. Apresente o resultado na forma de um cenário textual ou pictográfico (*storyboard*).
+Apresente uma análise de como as tarefas são atualmente realizadas pelo usuário, ou seja, sem o sistema que você pretende desenvolver. A coleta de dados para essa análise deve ser baseada na parte 1 do projeto. Apresente o resultado na forma de um cenário textual ou pictográfico (*storyboard*).
 
 ***2.3. Análise de Tarefas: DEPOIS***
 ![image](https://github.com/yuriGY/disciplina-ihc/assets/113930924/f2409716-b558-459a-97a1-21f7e87ae1d5)
