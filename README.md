@@ -30,7 +30,10 @@ Olá! Este repositório faz parte do projeto da disciplina de Interação Homem 
 ***2.1. Descrição dos Usuários: Personas***
 
 ### [Professora Clara](./Personas/Professora%20Clara.md)
+![image](https://raw.githubusercontent.com/yuriGY/disciplina-ihc/main/images/persona%201.png)
+
 ### [Professor Carlos](./Personas/Professor%20Carlos.md)
+![image](https://raw.githubusercontent.com/yuriGY/disciplina-ihc/main/images/persona%202.png)
 
 ***2.2. Análise de Tarefas: ANTES***
 
