@@ -92,3 +92,11 @@ Por fim, os resultados devem ser analisados e apresentados da seguinte forma:
 [1] “Glossário da _USina_”, <_id_doc glossário_>, Versão <_versão_>. Localização: <_localização_>.
 
 [2] Stackedit.io <edição de texto para o GitHub>
+
+## Requisitos Funcionais
+
+| ID   | Descrição                                                               | Prioridade |
+| RF01 | O sistema deve permitir que o usuário possa registrar uma conta         |            |
+| RF02 | O sistema deve permitir que o usuário faça login                        | Alta       |
+| RF03 | O sistema deve permitir que o usuário altere suas informações de acesso | Alta       |
+| RF04 | O sistema deve permitir que o usuário consiga                           | Alta       |
