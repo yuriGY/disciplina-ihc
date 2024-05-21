@@ -48,6 +48,25 @@ Olá! Este repositório faz parte do projeto da disciplina de Interação Homem 
 ***3.1. Requisitos Funcionais***
 
 Apresente os requisitos funcionais do sistema (listagem de tudo o que o sistema deveria fazer).  No mínimo 15 requisitos. 
+
+**Requisitos Funcionais**
+| ID  | Requisito Funcional                                                                                                   | Prioridade |
+|-----|-----------------------------------------------------------------------------------------------------------------------|------------|
+| RF01 | O sistema deve permitir a criação e gestão de perfis de usuário para professores e alunos.                          | Alta       |
+| RF02 | O sistema deve disponibilizar ferramentas para agendar aulas e eventos.                                                        | Alta       |
+| RF03 | O sistema deve possuir um sistema de notificações para alterações de horário ou cancelamentos de aulas.                       | Média      |
+| RF04 | O sistema deve permitir o upload e download de materiais de aula.                                                               | Alta       |
+| RF05 | O sistema deve disponibilizar uma ferramenta de chat em tempo real para dúvidas e discussões.                                 | Alta       |
+| RF06 | O sistema deve ter um sistema de avaliação e feedback dos alunos.                                                               | Alta       |
+| RF07 | O sistema deve permitir o registro e acompanhamento de presença dos alunos.                                                     | Alta       |
+| RF08 | O sistema deve gerenciar tarefas e atividades a serem realizadas pelos alunos.                                                 | Média      |
+| RF09 | O sistema deve oferecer um recurso para gravação das aulas para posterior visualização.                                         | Média      |
+| RF10 | O sistema deve disponibilizar uma ferramenta de avaliação e feedback dos professores.                                           | Alta       |
+| RF11 | O sistema deve possuir um modulo de capacitação para professores.                                                               | Alta       |
+| RF12 | O sistema deve ser capaz de rastrear o progresso do aluno ao longo do curso                                                       | Alta       |
+| RF13 | O sistema deve ser capaz de se integrar com outras ferramentas educacionais digitais.                                           | Alta       |
+| RF14 | O sistema deve possuir uma ferramenta de gestão financeira para controle de mensalidades e pagamentos.                         | Alta       |
+| RF15 | O sistema deve possuir uma ferramenta de gestão financeira para controle de mensalidades e pagamentos.                          | Média      |
     
 ***3.2. Descrição textual***    
 
@@ -92,22 +111,3 @@ Por fim, os resultados devem ser analisados e apresentados da seguinte forma:
 [1] “Glossário da _USina_”, <_id_doc glossário_>, Versão <_versão_>. Localização: <_localização_>.
 
 [2] Stackedit.io <edição de texto para o GitHub>
-
-## Requisitos Funcionais
-| ID  | Requisito Funcional                                                                                                   | Prioridade |
-|-----|-----------------------------------------------------------------------------------------------------------------------|------------|
-| RF01 | O sistema deve permitir a criação e gestão de perfis de usuário para professores e alunos.                          | Alta       |
-| RF02 | O sistema deve disponibilizar ferramentas para agendar aulas e eventos.                                                        | Alta       |
-| RF03 | O sistema deve possuir um sistema de notificações para alterações de horário ou cancelamentos de aulas.                       | Média      |
-| RF04 | O sistema deve permitir o upload e download de materiais de aula.                                                               | Alta       |
-| RF05 | O sistema deve disponibilizar uma ferramenta de chat em tempo real para dúvidas e discussões.                                 | Alta       |
-| RF06 | O sistema deve ter um sistema de avaliação e feedback dos alunos.                                                               | Alta       |
-| RF07 | O sistema deve permitir o registro e acompanhamento de presença dos alunos.                                                     | Alta       |
-| RF08 | O sistema deve gerenciar tarefas e atividades a serem realizadas pelos alunos.                                                 | Média      |
-| RF09 | O sistema deve oferecer um recurso para gravação das aulas para posterior visualização.                                         | Média      |
-| RF10 | O sistema deve disponibilizar uma ferramenta de avaliação e feedback dos professores.                                           | Alta       |
-| RF11 | O sistema deve possuir um modulo de capacitação para professores.                                                               | Alta       |
-| RF12 | O sistema deve ser capaz de rastrear o progresso do aluno ao longo do curso                                                       | Alta       |
-| RF13 | O sistema deve ser capaz de se integrar com outras ferramentas educacionais digitais.                                           | Alta       |
-| RF14 | O sistema deve possuir uma ferramenta de gestão financeira para controle de mensalidades e pagamentos.                         | Alta       |
-| RF15 | O sistema deve possuir uma ferramenta de gestão financeira para controle de mensalidades e pagamentos.                          | Média      |
