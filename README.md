@@ -72,6 +72,8 @@ Apresente os requisitos funcionais do sistema (listagem de tudo o que o sistema 
 
 Apresente uma descrição textual resumida do seu design.  Quais as funcionalidades, principais escolhas de design, dentre outros. 
 
+- O design proposto para o aplicativo visa otimizar a interação dos professores com as suas respectivas atividades diárias. Entre as principais funcionalidades, o aplicativo oferecerá um sistema de registro de frequência diário, permitindo que os professores acompanhem a presença e a participação dos alunos de forma eficiente. Além disso, o aplicativo terá uma seção dedicada a cursos de capacitação, onde os professores poderão se atualizar e aprimorar suas habilidades pedagógicas. As principais escolhas de design foram feitas pensando na usabilidade e na praticidade para o usuário, com uma interface amigável e intuitiva.
+
 ***3.3. Design preliminar***      
 
 Apresente uma ilustrações do design: incluir os desenhos (sketches) das telas relativas à interface do seu sistema. 
