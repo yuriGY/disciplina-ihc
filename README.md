@@ -54,8 +54,8 @@ Apresente os requisitos funcionais do sistema (listagem de tudo o que o sistema 
 |-----|-----------------------------------------------------------------------------------------------------------------------|------------|
 | RF01 | O sistema deve permitir que professores façam login utilizando um nome de usuário e senha.                          | Alta       |
 | RF02 | O sistema deve permitir o cadastro de novos professores, incluindo informações como nome, e-mail, cpf.                        | Alta       |
-| RF03 | O sistema deve permitir o cadastro de novas turmas, incluindo informações como nome da turma, série, ano letivo e professor responsável.                       | Média      |
-| RF04 | O sistema deve permitir o upload e download de materiais de aula.                                                               | Alta       |
+| RF03 | O sistema deve permitir o cadastro de novas turmas, incluindo informações como nome da turma e professor responsável.                       | Alta      |
+| RF04 | O sistema deve incluir um menu acessível a partir da interface principal, permitindo aos usuários acessar diferentes opções e funcionalidades oferecidas pelo sistema.                                                               | Média       |
 | RF05 | O sistema deve permitir o cadastro de novos alunos, incluindo informações como nome, data de nascimento, e-mail, telefone e turma à qual pertencem.                                 | Alta       |
 | RF06 | O sistema deve ter um sistema de avaliação e feedback dos alunos.                                                               | Média      |
 | RF07 | O sistema deve permitir o registro e acompanhamento de presença dos alunos.                                                     | Alta       |
@@ -65,8 +65,8 @@ Apresente os requisitos funcionais do sistema (listagem de tudo o que o sistema 
 | RF11 | O sistema deve possuir um modulo de capacitação para professores.                                                               | Alta       |
 | RF12 | O sistema deve ser capaz de rastrear o progresso do aluno ao longo do curso                                                       | Alta       |
 | RF13 | O sistema deve permitir que professores registrem notas e comentários sobre o desempenho dos alunos em atividades e avaliações.                                           | Alta       |
-| RF14 | O sistema deve possuir uma ferramenta de gestão financeira para controle de mensalidades e pagamentos.                         | Alta       |
-| RF15 | O sistema deve permitir que professores entrem na área de cursos para visualizar e gerenciar os cursos que estão lecionando.                          | Média      |
+| RF14 |  O sistema deve permitir que os professores consultem seus certificados.                         | Média       |
+| RF15 | O sistema deve permitir que professores entrem na área de turmas para visualizar e gerenciar as turmas que estão lecionando.                          | Média      |
     
 ***3.2. Descrição textual***    
 
