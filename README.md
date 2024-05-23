@@ -82,6 +82,7 @@ Apresente uma ilustrações do design: incluir os desenhos (sketches) das telas 
 ## 4. Protótipo (Até dia 23/05)
 
 Apresentar o protótipo "em uso". Seu protótipo deve ser construído utilizando o Figma. 
+-[Link para acessar o protótipo do Figma](https://www.figma.com/design/V6ERk0hssqPSuDTTxODIJY/Untitled?node-id=0%3A1&t=Og03IPeV5BFO8RbF-1)
 
 ## 5. Avaliação e Re-Design (Até dia 13/06)
 
