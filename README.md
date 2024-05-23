@@ -77,6 +77,7 @@ Apresente uma descrição textual resumida do seu design.  Quais as funcionalida
 ***3.3. Design preliminar***      
 
 Apresente uma ilustrações do design: incluir os desenhos (sketches) das telas relativas à interface do seu sistema. 
+- [Clique aqui para acessar as sketches](https://github.com/yuriGY/disciplina-ihc/blob/main/ninjamock-project.pdf)
 
 ## 4. Protótipo (Até dia 23/05)
 
