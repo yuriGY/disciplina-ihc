@@ -52,21 +52,21 @@ Apresente os requisitos funcionais do sistema (listagem de tudo o que o sistema 
 **Requisitos Funcionais**
 | ID  | Requisito Funcional                                                                                                   | Prioridade |
 |-----|-----------------------------------------------------------------------------------------------------------------------|------------|
-| RF01 | O sistema deve permitir a criação e gestão de perfis de usuário para professores e alunos.                          | Alta       |
-| RF02 | O sistema deve disponibilizar ferramentas para agendar aulas e eventos.                                                        | Alta       |
-| RF03 | O sistema deve possuir um sistema de notificações para alterações de horário ou cancelamentos de aulas.                       | Média      |
+| RF01 | O sistema deve permitir que professores façam login utilizando um nome de usuário e senha.                          | Alta       |
+| RF02 | O sistema deve permitir o cadastro de novos professores, incluindo informações como nome, e-mail, cpf.                        | Alta       |
+| RF03 | O sistema deve permitir o cadastro de novas turmas, incluindo informações como nome da turma, série, ano letivo e professor responsável.                       | Média      |
 | RF04 | O sistema deve permitir o upload e download de materiais de aula.                                                               | Alta       |
-| RF05 | O sistema deve disponibilizar uma ferramenta de chat em tempo real para dúvidas e discussões.                                 | Alta       |
-| RF06 | O sistema deve ter um sistema de avaliação e feedback dos alunos.                                                               | Alta       |
+| RF05 | O sistema deve permitir o cadastro de novos alunos, incluindo informações como nome, data de nascimento, e-mail, telefone e turma à qual pertencem.                                 | Alta       |
+| RF06 | O sistema deve ter um sistema de avaliação e feedback dos alunos.                                                               | Média      |
 | RF07 | O sistema deve permitir o registro e acompanhamento de presença dos alunos.                                                     | Alta       |
-| RF08 | O sistema deve gerenciar tarefas e atividades a serem realizadas pelos alunos.                                                 | Média      |
-| RF09 | O sistema deve oferecer um recurso para gravação das aulas para posterior visualização.                                         | Média      |
+| RF08 | O sistema deve permitir que professores editem registros de frequência dos alunos para corrigir erros ou atualizar informações.                                                 | Média      |
+| RF09 | O sistema deve permitir que professores atualizem suas informações pessoais, como e-mail e telefone.                                         | Média      |
 | RF10 | O sistema deve disponibilizar uma ferramenta de avaliação e feedback dos professores.                                           | Alta       |
 | RF11 | O sistema deve possuir um modulo de capacitação para professores.                                                               | Alta       |
 | RF12 | O sistema deve ser capaz de rastrear o progresso do aluno ao longo do curso                                                       | Alta       |
-| RF13 | O sistema deve ser capaz de se integrar com outras ferramentas educacionais digitais.                                           | Alta       |
+| RF13 | O sistema deve permitir que professores registrem notas e comentários sobre o desempenho dos alunos em atividades e avaliações.                                           | Alta       |
 | RF14 | O sistema deve possuir uma ferramenta de gestão financeira para controle de mensalidades e pagamentos.                         | Alta       |
-| RF15 | O sistema deve possuir uma ferramenta de gestão financeira para controle de mensalidades e pagamentos.                          | Média      |
+| RF15 | O sistema deve permitir que professores entrem na área de cursos para visualizar e gerenciar os cursos que estão lecionando.                          | Média      |
     
 ***3.2. Descrição textual***    
 
