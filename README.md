@@ -57,11 +57,11 @@ Apresente os requisitos funcionais do sistema (listagem de tudo o que o sistema 
 | RF03 | O sistema deve permitir o cadastro e atualização de novas turmas, incluindo informações como nome da turma e professor responsável.                       | Alta      |
 | RF04 | O sistema deve incluir um menu acessível a partir da interface principal, permitindo aos usuários acessar diferentes opções e funcionalidades oferecidas pelo sistema.                                                               | Média       |
 | RF05 | O sistema deve permitir o cadastro e atualização de novos alunos, incluindo informações como nome, data de nascimento, e-mail, telefone e turma à qual pertencem.                                 | Alta       |
-| RF06 | O sistema deve ter um sistema de avaliação e feedback dos alunos.                                                               | Média      |
-| RF07 | O sistema deve permitir o registro e acompanhamento de presença dos alunos.                                                     | Alta       |
+| RF06 | O sistema deve ter um sistema de avaliação e feedback dos alunos.                                                               | Baixa      |
+| RF07 | O sistema deve permitir o registro e acompanhamento de presença dos alunos.                                                     | Média       |
 | RF08 | O sistema deve permitir que professores editem registros de frequência dos alunos para corrigir erros ou atualizar informações.                                                 | Média      |
-| RF09 | O sistema deve possuir um modulo de capacitação para professores.                                                               | Alta       |
-| RF10 |  O sistema deve permitir que os professores consultem seus certificados.                         | Média       |
+| RF09 | O sistema deve possuir um modulo de capacitação para professores.                                                               | Média       |
+| RF10 | O sistema deve permitir que os professores consultem seus certificados.                         | Baixa       |
 | RF11 | O sistema deve permitir que professores entrem na área de turmas para visualizar e gerenciar as turmas que estão lecionando.                          | Média      |
     
 ***3.2. Descrição textual***    
