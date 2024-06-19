@@ -43,7 +43,7 @@ Olá! Este repositório faz parte do projeto da disciplina de Interação Homem 
 ![image](https://raw.githubusercontent.com/yuriGY/disciplina-ihc/main/images/analise-de-tarefas-depois.png)
 
 
-## 3. Design (Até dia 16/05)
+## 3. Design
 
 ***3.1. Requisitos Funcionais***
 
