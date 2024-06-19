@@ -50,19 +50,19 @@ Olá! Este repositório faz parte do projeto da disciplina de Interação Homem 
 Apresente os requisitos funcionais do sistema (listagem de tudo o que o sistema deveria fazer).  No mínimo 15 requisitos. 
 
 **Requisitos Funcionais**
-| ID  | Requisito Funcional                                                                                                   | Prioridade |
-|-----|-----------------------------------------------------------------------------------------------------------------------|------------|
-| RF01 | O sistema deve permitir que professores façam login utilizando um nome de usuário e senha.                          | Alta       |
-| RF02 | O sistema deve permitir o cadastro e atualização de novos professores, incluindo informações como nome, e-mail, cpf.                        | Alta       |
-| RF03 | O sistema deve permitir o cadastro e atualização de novas turmas, incluindo informações como nome da turma e professor responsável.                       | Alta      |
-| RF04 | O sistema deve incluir um menu acessível a partir da interface principal, permitindo aos usuários acessar diferentes opções e funcionalidades oferecidas pelo sistema.                                                               | Média       |
-| RF05 | O sistema deve permitir o cadastro e atualização de novos alunos, incluindo informações como nome, data de nascimento, e-mail, telefone e turma à qual pertencem.                                 | Alta       |
-| RF06 | O sistema deve ter um sistema de avaliação e feedback dos alunos.                                                               | Baixa      |
-| RF07 | O sistema deve permitir o registro e acompanhamento de presença dos alunos.                                                     | Média       |
+| ID   | Requisito Funcional                                                                                                                                                             | Prioridade |
+|------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| RF01 | O sistema deve permitir que professores façam login utilizando um nome de usuário e senha.                                                                                      | Alta       |
+| RF02 | O sistema deve permitir o cadastro e atualização de novos professores, incluindo informações como nome, e-mail, cpf.                                                            | Alta       |
+| RF03 | O sistema deve permitir o cadastro e atualização de novas turmas, incluindo informações como nome da turma e professor responsável.                                             | Alta       |
+| RF04 | O sistema deve incluir um menu acessível a partir da interface principal, permitindo aos usuários acessar diferentes opções e funcionalidades oferecidas pelo sistema.          | Média      |
+| RF05 | O sistema deve permitir o cadastro e atualização de novos alunos, incluindo informações como nome, data de nascimento, e-mail, telefone e turma à qual pertencem.               | Alta       |
+| RF06 | O sistema deve ter um sistema de avaliação e feedback dos alunos.                                                                                                               | Baixa      |
+| RF07 | O sistema deve permitir o registro e acompanhamento de presença dos alunos.                                                                                                     | Média      |
 | RF08 | O sistema deve permitir que professores editem registros de frequência dos alunos para corrigir erros ou atualizar informações.                                                 | Média      |
-| RF09 | O sistema deve possuir um modulo de capacitação para professores.                                                               | Média       |
-| RF10 | O sistema deve permitir que os professores consultem seus certificados.                         | Baixa       |
-| RF11 | O sistema deve permitir que professores entrem na área de turmas para visualizar e gerenciar as turmas que estão lecionando.                          | Média      |
+| RF09 | O sistema deve possuir um modulo de capacitação para professores.                                                                                                               | Média      |
+| RF10 | O sistema deve permitir que os professores consultem seus certificados.                                                                                                         | Baixa      |
+| RF11 | O sistema deve permitir que professores entrem na área de turmas para visualizar e gerenciar as turmas que estão lecionando.                                                    | Média      |
     
 ***3.2. Descrição textual***    
 
@@ -75,12 +75,12 @@ Apresente uma descrição textual resumida do seu design.  Quais as funcionalida
 Apresente uma ilustrações do design: incluir os desenhos (sketches) das telas relativas à interface do seu sistema. 
 - [Clique aqui para acessar as sketches](https://github.com/yuriGY/disciplina-ihc/blob/main/ninjamock-project.pdf)
 
-## 4. Protótipo (Até dia 23/05)
+## 4. Protótipo
 
 Apresentar o protótipo "em uso". Seu protótipo deve ser construído utilizando o Figma. 
 - [Link para acessar o protótipo do Figma](https://www.figma.com/design/V6ERk0hssqPSuDTTxODIJY/Untitled?node-id=0%3A1&t=Og03IPeV5BFO8RbF-1)
 
-## 5. Avaliação e Re-Design (Até dia 13/06)
+## 5. Avaliação e Re-Design
 
 ***5.1. Avaliação com usuários*** 
 
