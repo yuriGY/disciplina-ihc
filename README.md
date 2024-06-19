@@ -5,11 +5,11 @@
 
 Olá! Este repositório faz parte do projeto da disciplina de Interação Homem Computador da UTFPR - Campus Cornélio Procópio. 
 
-## 1. Introdução (Até dia 04/04)
+## 1. Introdução
 
 ***1.1.  Nome do Grupo***
 
-- MI6 Group.LTDA
+- Teacher Connect
 
 ***1.2.  Problema***
 
