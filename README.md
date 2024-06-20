@@ -113,7 +113,7 @@ R: Pelo feedback final do usuário com a orientação de entrar em todas as tela
 <br>R: Acreditamos que o protótipo aparenta estar com um feedback positivo devido aos relatos dos testes e que a usabilidade está clara e simples segundo a fácil navegação entre as páginas pelos relatos, contudo, acreditamos que há sim espaço para melhorias, porém, as nossas metas foram batidas pelas nossas definições prévias.
 - Apresentar uma análise crítica da avaliação realizada, com identificação de problemas e sugestões de melhorias (quais modificações devem ser realizadas na próxima versão do protótipo?).
 <br>R: O grupo decidiu que o design poderia ter uma melhoria em relação aos elementos de navegação, como em relação ao tamanho dos botões de menu para o acesso entre as telas e pop-ups e num maior destaque de cor ou tamanho de textos de maior importância com o intuito de situar melhor o cenário em que o cliente se encontra.
-## Referências
+
 
 ### [Relato - Usuário 1](./relatos-teste/usuário_1_.md)
 
@@ -122,6 +122,8 @@ R: Pelo feedback final do usuário com a orientação de entrar em todas as tela
 ### [Relato - Usuário 2](./relatos-teste/usuario_2.md)
 ![image](https://raw.githubusercontent.com/yuriGY/disciplina-ihc/main/images/Usu%C3%A1rio%202.png)
 
+
+## Referências
 *<Esta seção é destinada à descrição das referências utilizadas pelo documento:>*
 
 [1] Figma <figma.com>
