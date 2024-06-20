@@ -122,8 +122,6 @@ R: Pelo feedback final do usuário com a orientação de entrar em todas as tela
 ### [Relato - Usuário 2](./relatos-teste/usuario_2.md)
 ![image](https://raw.githubusercontent.com/yuriGY/disciplina-ihc/main/images/Usu%C3%A1rio%202.png)
 
-*<Esta seção é destinada à descrição das referências utilizadas pelo documento, como por exemplo, URLs e livros. Ver exemplo a seguir:>*
+*<Esta seção é destinada à descrição das referências utilizadas pelo documento:>*
 
-[1] “Glossário da _USina_”, <_id_doc glossário_>, Versão <_versão_>. Localização: <_localização_>.
-
-[2] Stackedit.io <edição de texto para o GitHub>
+[1] Figma <figma.com>
