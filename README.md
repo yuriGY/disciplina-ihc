@@ -87,18 +87,25 @@ Apresentar o protótipo "em uso". Seu protótipo deve ser construído utilizando
 Esta avaliação consiste na aplicação do método Think  Aloud com dois usuários. Vocês devem gravar o áudio do usuário e a tela do protótipo durante o teste.
 
 -   Apresentar um vídeo de 3 minutos que resume os principais problemas encontrados.    
+[Link para acessar o vídeo sobre os principais problemas](https://youtu.be/UYVEbVJkGns)
 
 ANTES de conduzir o teste, defina as seguintes questões:
 
--   O que se deseja obter?    
--   Quando e onde vai acontecer?    
--   Qual a duração prevista de cada sessão?    
--   Qual o estado do sistema no início do teste?    
--   Quem serão os usuários?    
--   Quais tarefas serão solicitadas aos usuários?    
+-   O que se deseja obter?
+<br>R: Queremos definir possíveis dificuldades do uso do protótipo, a interação do usuário com ele para analisarmos a melhoria de seu design.    
+-   Quando e onde vai acontecer?
+<br>R: O teste será realizado de forma online após a conclusão inicial do protótipo do Figma.  
+-   Qual a duração prevista de cada sessão?
+<br>R: Cada sessão tem a estimativa de 5 minutos para o usuário se interar com as páginas.   
+-   Qual o estado do sistema no início do teste?
+<br>R: O sistema no início está em estado de prontidão aguardando a ação do usuário.   
+-   Quem serão os usuários?
+<br>R: Pessoas relacionadas a área da educação.       
+-   Quais tarefas serão solicitadas aos usuários?
+<br>R: Entrada de páginas e comunicação com as interações da tela para a visualização das suas expectativas nas entradas e saídas das informações.      
 -   Qual critério será utilizado para decidir que os usuários terminaram cada tarefa corretamente?    
-
-Por fim, os resultados devem ser analisados e apresentados da seguinte forma:
+R: Pelo feedback final do usuário com a orientação de entrar em todas as telas.  
+<br><br>Por fim, os resultados devem ser analisados e apresentados da seguinte forma:
 
 -   Descrever  a avaliação e os resultados obtidos (quais problemas foram identificados no seu design?).    
 -   Resumir os resultados das avaliações com análise crítica referente a se os princípios e metas de usabilidade considerados importantes para o seu sistema foram satisfeitos ou não.
