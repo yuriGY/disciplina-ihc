@@ -115,6 +115,14 @@ R: Pelo feedback final do usuário com a orientação de entrar em todas as tela
 <br>R: O grupo decidiu que o design poderia ter uma melhoria em relação aos elementos de navegação, como em relação ao tamanho dos botões de menu para o acesso entre as telas e pop-ups e num maior destaque de cor ou tamanho de textos de maior importância com o intuito de situar melhor o cenário em que o cliente se encontra.
 ## Referências
 
+
+***Relato - Usuário 1***
+
+![image](https://raw.githubusercontent.com/yuriGY/disciplina-ihc/main/images/Usu%C3%A1rio%201.png)
+
+***Relato - Usuário 2***
+![image](https://raw.githubusercontent.com/yuriGY/disciplina-ihc/main/images/Usu%C3%A1rio%202.png)
+
 *<Esta seção é destinada à descrição das referências utilizadas pelo documento, como por exemplo, URLs e livros. Ver exemplo a seguir:>*
 
 [1] “Glossário da _USina_”, <_id_doc glossário_>, Versão <_versão_>. Localização: <_localização_>.
