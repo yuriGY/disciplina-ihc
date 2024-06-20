@@ -107,10 +107,12 @@ ANTES de conduzir o teste, defina as seguintes questões:
 R: Pelo feedback final do usuário com a orientação de entrar em todas as telas.  
 <br><br>Por fim, os resultados devem ser analisados e apresentados da seguinte forma:
 
--   Descrever  a avaliação e os resultados obtidos (quais problemas foram identificados no seu design?).    
--   Resumir os resultados das avaliações com análise crítica referente a se os princípios e metas de usabilidade considerados importantes para o seu sistema foram satisfeitos ou não.
+-   Descrever  a avaliação e os resultados obtidos (quais problemas foram identificados no seu design?).
+<br>R: O sistema foi relatado como uma interface fácil, agradável e intuitiva de se utilizar, porém com algumas limitações em relação ao uso do Figma e também com a possibilidade de melhoria para a interação.  
+-   Resumir os resultados das avaliações com análise crítica referente e se os princípios e metas de usabilidade considerados importantes para o seu sistema foram satisfeitos ou não.
+<br>R: Acreditamos que o protótipo aparenta estar com um feedback positivo devido aos relatos dos testes e que a usabilidade está clara e simples segundo a fácil navegação entre as páginas pelos relatos, contudo, acreditamos que há sim espaço para melhorias, porém, as nossas metas foram batidas pelas nossas definições prévias.
 - Apresentar uma análise crítica da avaliação realizada, com identificação de problemas e sugestões de melhorias (quais modificações devem ser realizadas na próxima versão do protótipo?).
-
+<br>R: O grupo decidiu que o design poderia ter uma melhoria em relação aos elementos de navegação, como em relação ao tamanho dos botões de menu para o acesso entre as telas e pop-ups e num maior destaque de cor ou tamanho de textos de maior importância com o intuito de situar melhor o cenário em que o cliente se encontra.
 ## Referências
 
 *<Esta seção é destinada à descrição das referências utilizadas pelo documento, como por exemplo, URLs e livros. Ver exemplo a seguir:>*
